@@ -1,2 +1,2 @@
 # DataVis_Baseball
-jupyter notebook crated visualizations based on data 
+jupyter notebook created visualizations based on data 
